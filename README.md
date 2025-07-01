@@ -1,7 +1,7 @@
 # TeamPlay - A Prototype
-
+## Main Container
+ - Jericho Pel
 ## Contributors
 
-- Master Maintainer
 - Chris Michael Leynes
 - John Valentine Macalalay
