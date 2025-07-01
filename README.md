@@ -1,7 +1,7 @@
 # TeamPlay - A Prototype
-## Main Container
+## Master Container
  - Jericho Pel
-## Contributors
 
+## Contributors
 - Chris Michael Leynes
 - John Valentine Macalalay
