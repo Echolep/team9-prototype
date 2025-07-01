@@ -5,3 +5,4 @@
 ## Contributors
 - Chris Michael Leynes
 - John Valentine Macalalay
+- Marc Kristian Pulido
