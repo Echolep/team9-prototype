@@ -1,2 +1,5 @@
-# team9-prototype
-Team 9 Protoype
+# TeamPlay - A Prototype
+
+## Contributors
+
+- Master Maintainer
